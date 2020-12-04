@@ -1,6 +1,5 @@
 import 'package:capturetree/Signup.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 void main() {
   runApp(MyApp());
 }
