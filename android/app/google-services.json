@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235747090987",
+    "project_id": "capturetree-5a669",
+    "storage_bucket": "capturetree-5a669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235747090987:android:f51d60273b22453faa006e",
+        "android_client_info": {
+          "package_name": "mac.CaptureTree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235747090987-t5fmjndtfnug3imnh4hlr6m52tsevmlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmC3H7G_4STw-T0rnRefvq1SwZechHwZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235747090987-t5fmjndtfnug3imnh4hlr6m52tsevmlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
